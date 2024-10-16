@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.addcompo{
+    background: rgba(0,0,0,0.8);
+}
+
+
+.home-bg{
+    background-image: url(./assets/images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.add-book{
+    background: rgba(0,0,0,0.8);
+}
